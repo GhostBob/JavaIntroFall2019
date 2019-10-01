@@ -1,0 +1,63 @@
+Warm Up:
+Write an “I’m thinking of a number” game. Have the computer pick a random number between 1 and 100. Make the user keep picking numbers until they guess right. If they’re wrong, tell them higher or lower. If they’re right, congratulate them, and end the program.
+
+Practice 0!
+Write a program that prints out each character in the String “Hello, world!” On a separate line.
+
+Practice 1:
+Suppose we have a Point of Sale, where we get the total value of goods the customer has purchased, as well as a customer type. We’ll want to get from the user…
+1) Total Balance
+2) Customer type (‘e’ employee, ‘r’ regular, ’t’ tax-exempt)
+After you get those values, calculate sales tax, if any, and print out the Balance (possibly after discount), tax, and total due.
+
+This Exercises: Scanner, If/Else, Variables, Expressions 
+
+Practice 2:
+Write a method that tests the equality of two arrays. If each value in each spot of the array are equal, return True.
+
+This Exercises: If/Else, Methods, Arrays, Loops
+
+Practice 3:
+Write a program that finds the common elements between two arrays, and puts them in a third array. HINT: This involves nested loops. For each element in array1, you’ll have to compare it to each element in array2.
+
+This Exercises: Loops, Arrays, If/Else, Nested Logic
+
+Practice 4:
+Use (probably two) nested for loops to draw an hour glass.
+
+This Exercises: Nested Loops
+
+
+
+
+
+Things you should know:
+
+	1.	Variables
+	⁃	Declaring and Using
+	⁃	Scope (variables within methods)
+	2.	Expressions & Operations
+	⁃	Comparisons, equality, incrementing, math, etc  
+	3.	Methods
+	⁃	Void and Parameterless (plain and boring)
+	⁃	Returns
+	⁃	Parameters
+	4.	Conditionals
+	⁃	If
+	⁃	Else If
+	⁃	Else
+	⁃	Nested logic
+	5.	Loops
+	⁃	Do-While
+	⁃	While
+	⁃	For (and ForEach, if you want)
+	⁃	Nested logic
+	6.	Arrays
+	⁃	Declaring and initializing
+	⁃	Accessing arrays (through loops or otherwise)
+	7.	Strings
+	⁃	Basic usage
+	⁃	Instance methods
+	8.	Misc
+	⁃	Scanner
+	⁃	Random
