@@ -1,0 +1,47 @@
+1. Write a program that uses loops to print the following:
+
+* * * * *
+*
+* * * *
+* *
+* * *
+* * *
+* *
+* * * *
+*
+* * * * *
+
+
+2. Write a simulated ATM. Start with an initial balance, and allow the user to deposit, withdraw, and examine funds as many times as they like, until they quit they program. Each deposit should add to the balance, and each withdrawal should subtract from the balance **IF** there’s enough money in their account to cover the withdrawal. If there isn’t enough money, inform the user of this fact, and don’t change the balance.
+
+Example input might be like:
+	Welcome to the ATM Simulator 2018!
+	What would you like to do? Withdraw (1), Deposit (2), See Balance (3), or Quit (4).
+	3
+	Your current balance is: $3021.00
+	What would you like to do? Withdraw (1), Deposit (2), See Balance (3), or Quit (4).
+	2
+	How much would you like to deposit?
+	113.31
+	Done!
+	What would you like to do? Withdraw (1), Deposit (2), See Balance (3), or Quit (4).
+	1
+	How much would you like to withdraw?
+	3500
+	I’m sorry, your balance of $3,134.31 won’t cover that withdrawal…
+	What would you like to do? Withdraw (1), Deposit (2), See Balance (3), or Quit (4).
+	1
+	How much would you like to withdraw?
+	$3000
+	Done!
+	What would you like to do? Withdraw (1), Deposit (2), See Balance (3), or Quit (4).
+	4
+	See you later, alligator!
+
+
+3. Create an array of ten first names, and another array of ten last names. Then, write a function that concatenates the first and last name, in all caps. Use that function to create a new array that contains all ten full, all caps, names.
+
+
+4. Write a function called reverseIt that reverses all the letters in a character array, and returns the new, reversed, array.
+
+Then, write a method called reverseIt that reverses a string, and returns the new, reversed, string.
